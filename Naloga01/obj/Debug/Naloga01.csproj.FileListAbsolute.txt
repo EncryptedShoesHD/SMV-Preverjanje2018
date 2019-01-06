@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\bin\Debug\Naloga01.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\bin\Debug\Naloga01.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\bin\Debug\Naloga01.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\SMV_Preverjanje\Naloga01\obj\Debug\Naloga01.pdb
